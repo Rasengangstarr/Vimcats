@@ -27,7 +27,7 @@ Or search for install instructions on your distribution.
 
 Add:
 
-``Plug 'Rasengangstarr/vascii'``
+``Plug 'Rasengangstarr/Vimcats'``
 
 To your .vimrc
 
@@ -44,7 +44,7 @@ then in vim run :PlugInstall
 ### Vundle ###
 Add:
 
-``Plug 'Rasengangstarr/vascii'``
+``Plug 'Rasengangstarr/Vimcats'``
 
 To your .vimrc
 
