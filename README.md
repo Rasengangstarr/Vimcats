@@ -1,5 +1,7 @@
 # Vimcats
-Paste a random ascii cat into a document with vim
+Paste a random ascii cat into a document with vim.
+
+Uses https://cataas.com/ cat image api
 
 Warning: usually looks awful, its just a meme.
 
